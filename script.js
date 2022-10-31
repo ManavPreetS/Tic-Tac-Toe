@@ -192,7 +192,7 @@ if((num-1)==1||(num-1)==4||(num-1)==7){
         winner=0;
     }
     id="";
-    if(winner==2){
+    if(winner>=2){
 alert("We have a Winner: "+ aa);
     }
 }
